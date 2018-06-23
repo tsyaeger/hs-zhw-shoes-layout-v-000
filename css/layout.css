@@ -27,7 +27,7 @@
 
 .col-1 {
 	float: left;
-	width: 32%;
+	width: 66%;
 	padding: 5px;
 	text-align: center;
 }
@@ -35,7 +35,7 @@
 
 .col-2 {
 	float: left;
-	width: 66%;
+	width: 32%;
 }
 
 
