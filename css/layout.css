@@ -43,7 +43,13 @@
 	background: #eff4f7;
 }
 
+[class*="col-"] {
+	margin-left: 2%;
+}
 
+.first {
+	margin-left: 0%
+}
 
 /*.wrapper {*/
 /*	width: 1080px;*/
